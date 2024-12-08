@@ -39,7 +39,7 @@ export const obtenerproducto = async id =>{
 
 export const editarproducto = async producto =>{
     try {
-        await fetch('${url}/${producto.id}',{
+        await fetch(`${url}/${producto.id}`,{
             method:'PUT',
             body: JSON.stringify(producto),
             headers:{
