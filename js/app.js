@@ -1,4 +1,4 @@
-import{obtenerproductos} from "./api"
+import{obtenerproductos} from"./api"
 
 const listado = document.querySelector('#listado-Productos')
 document.addEventListener('DOMContentLoaded',mostrarProducto)
