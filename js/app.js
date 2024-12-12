@@ -45,7 +45,7 @@ async function mostrarProducto(){
         <a href="../editar-producto.html?id=${id}" class="text-teal-600 hover:text-teal-900">Editar</a>
         
 
-        <a href="data-producto=${id}" class="text-red-600 hover:text-red-900 eliminar">Eliminar</a>
+        <a href="" data-producto=${id} class="text-red-600 hover:text-red-900 eliminar">Eliminar</a>
         </td>
         `
         //en editar no me hace la funcion de llevarme al html

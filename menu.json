@@ -1,130 +1,126 @@
 {
-    "menu":[
-      {
-          "id":1,
-         "nombre": "Pizza pequena",
-         "precio": 20,
-         "categoria": 1
-      },
-      {
-          "id":2,
-         "nombre": "Pizza mediana",
-         "precio": 25,
-         "categoria": 1
-      },
-      {
-          "id":3,
-         "nombre": "Pizza grande",
-         "precio": 30,
-         "categoria": 1
-  
-      },
-      {
-          "id":4,
-         "nombre": "Tres leche",
-         "precio": 15,
-         "categoria": 2
-      },
-      {
-          "id":5,
-         "nombre": "Torta de chocolate",
-         "precio": 17,
-         "categoria": 2
-      },
-      {
-          "id":6,
-         "nombre": "Profiterol",
-         "precio": 20,
-         "categoria": 2
-      },
-      {    "id":7,
+  "menu": [
+    {
+      "id": "1",
+      "nombre": "Pizza grande",
+      "precio": 30,
+      "categoria": 1
+
+    },
+    {
+      "id": "2",
+      "nombre": "Pizza mediana",
+      "precio": 25,
+      "categoria": 1
+    },
+    {
+      "id": "3",
+      "nombre": "Pizza grande",
+      "precio": 30,
+      "categoria": 1
+    },
+    {
+      "id": "4",
+      "nombre": "Tres leche",
+      "precio": 15,
+      "categoria": 2
+    },
+    {
+      "id": "5",
+      "nombre": "Torta de chocolate",
+      "precio": 17,
+      "categoria": 2
+    },
+    {
+      "id": "6",
+      "nombre": "Profiterol",
+      "precio": 20,
+      "categoria": 2
+    },
+    {
+      "id": "7",
       "nombre": "Helado de fresa",
       "precio": 2,
       "categoria": 2
-  
-   },
-   {
-       "id":8,
+    },
+    {
+      "id": "8",
       "nombre": "Helado de chocolate",
       "precio": 2,
       "categoria": 2
-   },
-   {
-       "id":9,
+    },
+    {
+      "id": "9",
       "nombre": "Helado de vainilla",
       "precio": 2,
       "categoria": 2
-  
-      },
-      {
-          "id":10,
-         "nombre": "Jugo de melon",
-         "precio": 5,
-         "categoria": 3
-      },
-      {
-         "id":11,
-         "nombre": "Jugo de lechosa",
-         "precio": 5,
-         "categoria": 3  
-      },
-      {
-          "id":12,
-         "nombre": "Cafe expreso",
-         "precio": 2,
-         "categoria": 4
-      },
-      {
-          "id":13,
-         "nombre": "Capuccino",
-         "precio": 3,
-         "categoria": 4
-      },
-      {
-        "id":14,
-       "nombre": "Latte",
-       "precio": 3,
-       "categoria": 4
     },
-      {
-          "id":15,
-         "nombre": "Combo 1",
-         "precio": 20,
-         "categoria": 5
-      },
-      {
-          "id":16,
-         "nombre": "Combo 2",
-         "precio": 22,
-         "categoria": 5
-      },
-      {
-          "id":17,
-         "nombre": "Combo 3",
-         "precio": 23,
-         "categoria": 5
-      },
-      {
-        "id":18,
-         "nombre": "Corte de carne",
-         "precio": 15,
-         "categoria": 6
-      },
-      {
-        "id":19,
-         "nombre": "Corte de pollo",
-         "precio": 15,
-         "categoria": 6
-      },
-      {
-        "id":20,
-         "nombre": "Corte de pescado",
-         "precio": 18,
-         "categoria": 6
-      }
-   
-    ],
-    "cliente":[
-      
-    ]  
-  }
+    {
+      "id": "10",
+      "nombre": "Jugo de melon",
+      "precio": 5,
+      "categoria": 3
+    },
+    {
+      "id": "11",
+      "nombre": "Jugo de lechosa",
+      "precio": 5,
+      "categoria": 3
+    },
+    {
+      "id": "12",
+      "nombre": "Cafe expreso",
+      "precio": 2,
+      "categoria": 4
+    },
+    {
+      "id": "13",
+      "nombre": "Capuccino",
+      "precio": 3,
+      "categoria": 4
+    },
+    {
+      "id": "14",
+      "nombre": "Latte",
+      "precio": 3,
+      "categoria": 4
+    },
+    {
+      "id": "15",
+      "nombre": "Combo 1",
+      "precio": 20,
+      "categoria": 5
+    },
+    {
+      "id": "16",
+      "nombre": "Combo 2",
+      "precio": 22,
+      "categoria": 5
+    },
+    {
+      "id": "17",
+      "nombre": "Combo 3",
+      "precio": 23,
+      "categoria": 5
+    },
+    {
+      "id": "18",
+      "nombre": "Corte de carne",
+      "precio": 15,
+      "categoria": 6
+    },
+    {
+      "id": "19",
+      "nombre": "Corte de pollo",
+      "precio": 15,
+      "categoria": 6
+    },
+    {
+      "id": "20",
+      "nombre": "Corte de pescado",
+      "precio": 18,
+      "categoria": 6
+    }
+  ],
+  "cliente": []
+}

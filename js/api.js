@@ -27,7 +27,7 @@ export const obtenerproductos = async ()=>{
 export const obtenerproducto = async id =>{
 
     try{
-        const resultado = await fetch('${url}/${id}')
+        const resultado = await fetch(`${url}/${id}`)
         const producto = await resultado.json()
         return producto
     }catch(error){
